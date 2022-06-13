@@ -1,2 +1,0 @@
-#!/bin/bash
-ln -s /home/switch/shell/basics/_ls_/ /bin/ls
